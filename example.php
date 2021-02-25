@@ -1,5 +1,9 @@
 <?php
 function pow(int $x,int $y ) :int
 {
-    return $x;
+    return $x +100;
+}
+function testV()
+{
+
 }
