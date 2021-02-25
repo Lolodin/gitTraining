@@ -7,3 +7,7 @@ function testV()
 {
 
 }
+function testB()
+{
+
+}
